@@ -1,5 +1,5 @@
 # DoorClosing
-## A plugin that closes the door 15 seconds after opening specified in the config
+## Plugin for SCP:SL EXILED, which closes the door 15 seconds after the opening specified in the configuration
 
 Config Example: 
 ```
